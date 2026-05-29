@@ -29,16 +29,9 @@ de que una mujer sufra violencia física por parte de su pareja?
 
 ## Estructura del repositorio
 
-analisis-riesgo-endireh/
-│
-├── code/
-│   └── modelo_logistico.do     # Script completo: limpieza, modelado y visualización
-│
-├── results/
-│   └── paper_endireh.pdf       # Documento con metodología y resultados completos
-│
-└── data/
-└── README.md               # Instrucciones para descargar los datos de INEGI
+- **code/** — Script de Stata con limpieza, modelado y visualización
+- **results/** — Paper académico con metodología y resultados completos  
+- **data/** — Instrucciones para descargar los datos de INEGI
 
 ## Datos
 Los microdatos de la ENDIREH 2021 están disponibles gratuitamente en INEGI:
@@ -55,4 +48,4 @@ Colócalos en la carpeta `/data/` para ejecutar el script correctamente.
 ## Autor
 **Juan Carlos Haro Ortega**  
 Licenciado en Matemáticas Aplicadas — UAEH 2025  
-📧 carloshaor@outlook.com | 🐙 [github.com/jcar2905](https://github.com/jcar2905)
+carloshaor@outlook.com | [github.com/jcar2905](https://github.com/jcar2905)
